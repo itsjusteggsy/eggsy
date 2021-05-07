@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @begastrom
+- 👋 Hi, I’m @itsjusteggsy
 - 👀 I’m interested in live music, ice hockey and videography
 - 🌱 I’m currently learning to code via CS50x and The Odin Project
 - 💞️ I’m looking to collaborate on anything that would help a newbie out
